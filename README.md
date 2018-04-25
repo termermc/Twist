@@ -32,12 +32,12 @@ You can specify domains that use another domain's filesystem by editing `linkedd
 # Compiling
 To build, all you need is the source code and Sparkjava (http://sparkjava.com/download), the free and open source Java webserver. You maybe include it with maven by adding the following to your POM:
 
-<code><dependency>
+`<dependency>`
 
-    <groupId>com.sparkjava</groupId>
+    `<groupId>com.sparkjava</groupId>`
     
-    <artifactId>spark-core</artifactId>
+    `<artifactId>spark-core</artifactId>`
     
-    <version>2.7.2</version>
+    `<version>2.7.2</version>`
     
-</dependency></code>
+`</dependency></code>`
