@@ -40,4 +40,4 @@ To build, all you need is the source code and Sparkjava (http://sparkjava.com/do
     
     `<version>2.7.2</version>`
     
-`</dependency></code>`
+`</dependency>`
