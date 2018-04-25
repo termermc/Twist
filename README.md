@@ -34,10 +34,10 @@ To build, all you need is the source code and Sparkjava (http://sparkjava.com/do
 
 `<dependency>`
 
-    `<groupId>com.sparkjava</groupId>`
+    <groupId>com.sparkjava</groupId>
     
-    `<artifactId>spark-core</artifactId>`
+    <artifactId>spark-core</artifactId>
     
-    `<version>2.7.2</version>`
+    <version>2.7.2</version>
     
 `</dependency>`
