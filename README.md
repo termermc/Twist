@@ -28,3 +28,12 @@ Note: You'll have to create a domain directory for your server IP address if you
 You can specify domains that use another domain's filesystem by editing `linkeddomains.ini`. To link a domain with a filesystem of another one, add a line to `linkeddomains.ini` with the following structure:
 
 `domain-to-link > domain-with-a-filesystem`
+
+# Compiling
+To build, all you need is the source code and Sparkjava (http://sparkjava.com/download), the free and open source Java webserver. You maybe include it with maven by adding the following to your POM:
+
+`<dependency>
+    <groupId>com.sparkjava</groupId>
+    <artifactId>spark-core</artifactId>
+    <version>2.7.2</version>
+</dependency>`
