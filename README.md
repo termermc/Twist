@@ -5,7 +5,7 @@ Twist is a small, lightwieght, and versitile webserver written in Java with the 
 To use, you simply download the Jarfile and run it using `java -jar twist.jar`. The appropriate files will be created, along with the descriptions. Once you have started it, terminate it to edit the configuration files.
 
 # Configuring the Webserver
-You may configure the behavior of the webserver by editing `twist.ini`.
+You may configure the behavior of the webserver by editing `twist.ini`, which is created when then the server is launched.
 
 The first field you may edit is called `ip`, and it contains the IP address to bind the server to. It comes prefilled with `127.0.0.1`, the default IP address for `localhost`.
 
