@@ -1,5 +1,8 @@
+# Repository Archived
+This repository has been archived, because it has multiple issues, and a piece of software such as Nginx will serve you much better.
+
 # Twist
-Twist is a small, lightwieght, and versitile webserver written in Java with the ability to serve multiple sites one the same IP address and webserver. It serves static HTML, with the ability to apply top and bottom template HTML for each webpage.
+Twist is a small, lightweight, and versitile webserver written in Java with the ability to serve multiple sites one the same IP address and webserver. It serves static HTML, with the ability to apply top and bottom template HTML for each webpage.
 
 # How to use
 To use, you simply download the Jarfile and run it using `java -jar twist.jar`. The appropriate files will be created, along with the descriptions. Once you have started it, terminate it to edit the configuration files.
